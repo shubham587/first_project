@@ -1,0 +1,54 @@
+body{
+  background-color: #16697a ;
+}
+hr{
+  border-color: grey;
+  border-style: none ;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 8%;
+  height: 4px
+}
+h1{
+  font-style: italic;
+  color: #66BFBF;
+  font-size: 20px;
+}
+h2{
+  font-style: italic;
+  color: orange;
+  font-size: 60px;
+}
+h3{
+  font-style: italic;
+  color: #66BFBF;
+  font-size:60px;
+}
+li{
+  font-style: italic;
+  font-size: 40px;
+}
+b{
+  font-style: italic;
+  font-size: 40px;
+}
+form{
+  font-style: italic;
+}
+a{
+  font-style: italic;
+  color: yellow;
+  font-size:25px;
+}
+table{
+  font-style: italic;
+  font-size: 40px;
+}
+img :hover{
+
+  background-color:gold;
+  text-decoration-color: gold;
+}
+img{
+  border-radius: 100%;
+}
